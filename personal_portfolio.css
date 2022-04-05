@@ -16,7 +16,8 @@
 }
 .nav-link:hover {
 color: white;
-background-color: black;
+background-color: rgb(233, 20, 109);
+text-decoration: none;
 }
 
 /* main section */
